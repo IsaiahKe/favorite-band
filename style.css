@@ -4,11 +4,13 @@
 .body{
     height:96%;width:100%;padding:10px;margin:5px;background:#f0f0f0;margin:0 auto;overflow: auto;
     }
- .imageholder{height: 42%; width:96%;border-bottom: none;border:1px solid;
-    	float: left;margin-left:2px;padding:30px;
+ .imageholder{height: 23%; width:310px;border-bottom: none;
+    	float: left;margin-left:5px;padding:30px;
 }
 .contholder{
-    font-family:vardana;width: 400px;height:800px;border-top:1px;border:1px solid;
+    font-family:vardana;width: 400px;height:800px;border-top:outset;border:1px solid;
     padding:10px;float: left;margin-right:10px;overflow: auto;
 }
 .bioarea{width:98%;height:400px;padding:10px;font-family: rockwell;}
+.holder{font-family:vardana;width: 400px;height:500px;
+    padding:10px;float: left;margin-right:10px;overflow: auto;}
