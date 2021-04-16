@@ -1,8 +1,14 @@
+.namespan{
+	font-weight: bold;color:blue;
+}
 .body{
-    height:100%;width:200%;padding:10px;margin:5px;background:#f0f0f0;
+    height:96%;width:100%;padding:10px;margin:5px;background:#f0f0f0;margin:0 auto;overflow: auto;
     }
-    .imageholder{height: 200px; width: 200px;border-bottom: none;border:1px solid;
+ .imageholder{height: 42%; width:96%;border-bottom: none;border:1px solid;
+    	float: left;margin-left:2px;padding:30px;
 }
 .contholder{
-    font-family:vardana;width: 100px;border-top:none;border:1px solid;
+    font-family:vardana;width: 400px;height:800px;border-top:1px;border:1px solid;
+    padding:10px;float: left;margin-right:10px;overflow: auto;
 }
+.bioarea{width:98%;height:400px;padding:10px;font-family: rockwell;}
