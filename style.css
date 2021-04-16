@@ -8,7 +8,7 @@
     	float: left;margin-left:5px;padding:30px;
 }
 .contholder{
-    font-family:vardana;width: 400px;height:800px;border-top:outset;border:1px solid;
+    font-family:vardana;width: 400px;height:800px;border:outset;
     padding:10px;float: left;margin-right:10px;overflow: auto;
 }
 .bioarea{width:98%;height:400px;padding:10px;font-family: rockwell;}
