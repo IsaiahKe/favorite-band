@@ -1,0 +1,8 @@
+.body{
+    height:100%;width:200%;padding:10px;margin:5px;background:#f0f0f0;
+    }
+    .imageholder{height: 200px; width: 200px;border-bottom: none;border:1px solid;
+}
+.contholder{
+    font-family:vardana;width: 100px;border-top:none;border:1px solid;
+}
