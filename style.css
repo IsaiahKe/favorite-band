@@ -1,5 +1,5 @@
 .namespan{
-	font-weight: bold;color:blue;
+	font-weight: bold;color:blue;cursor: pointer;
 }
 .body{
     width:99%;padding:10px;margin:5px;background:#f0f0f0;margin:0 auto;overflow: auto;
