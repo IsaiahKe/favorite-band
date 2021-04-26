@@ -9,4 +9,4 @@ Their albums and my favorite songs are as well listed and you can click to liste
 <https://isaiahke.github.io/favorite-band/>
 
 # Author #
-* Isaiah Keoye *
+*Isaiah Keoye
