@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 1363b21e22fc3e439c2474b49b8362edf23a3907
 # favorite-band #
 This is a project about my favorite band.
 The project has the band name and the itroduction
